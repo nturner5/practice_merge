@@ -5,3 +5,9 @@ function add() {
 }
 
 console.log(add(x))
+
+function multiply(x){
+    return x *=2; 
+}
+
+console.log(multiply(9))
